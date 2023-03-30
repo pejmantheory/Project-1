@@ -7,18 +7,7 @@ The game presents a 3x3 grid  where a mole pops up randomly hidden from one of t
 
 # Wireframe
 
-|    Whack-a-Mole!     |
-|                      | 
-|     Score: [00]      |
- ______________________
-|                      |
-|   [ 1 ] [ 2 ] [ 3 ]  |
-|                      |
-|   [ 4 ] [ 5 ] [ 6 ]  |
-|                      |
-|   [ 7 ] [ 8 ] [ 9 ]  |
-|______________________|
-|______________________|
+<img width="198" alt="Screenshot 2023-03-29 at 9 37 36 PM" src="https://user-images.githubusercontent.com/81389644/228731149-3a5fbb7e-2144-4a55-bdbc-ec1d6d1685ca.png">
 
 # MVP Features
 - 3x3 grid with randomly appearing moles
