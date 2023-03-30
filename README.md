@@ -4,6 +4,7 @@
 
 
 A simple Whack-a-Mole game built using HTML, CSS, and JavaScript. The game presents a 3x3 grid where moles appear randomly, and players click on them to increase their score.
+click here to play: https://pejmantheory.github.io/Whack-a-Mole-/
 
 # Minimum Viable Product (MVP)
 
