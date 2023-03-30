@@ -1,6 +1,7 @@
 # Whack-a-Mole Game
 
-![Untitled](https://user-images.githubusercontent.com/81389644/228723115-8bf72852-9e71-48fa-9325-181b713f4366.png)
+![Untitled](https://user-images.githubusercontent.com/81389644/228723354-570dbcb9-cca6-4ae6-a8d9-812fe32852c2.png)
+
 
 A simple Whack-a-Mole game built using HTML, CSS, and JavaScript. The game presents a 3x3 grid where moles appear randomly, and players click on them to increase their score.
 
