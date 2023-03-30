@@ -15,8 +15,8 @@ click here to play: https://pejmantheory.github.io/Whack-a-Mole-/
 # Future Stretch Goals
 
 - Add a timer to limit the game duration (e.g., 60 seconds)
-- Add animations and sound effects.
+- Add sound effects as moles being hit
 
 Tech being used:
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Draw.io (wireframe)
