@@ -10,7 +10,7 @@ The game presents a 3x3 grid where a mole pops up randomly hidden from the nine 
 - Grid of holes: A 3x3 grid where moles appear and disappear
 - Mole appearance: Moles should randomly pop up from the holes and stay visible for a limited time
 - Scoring system: Players earn points for each mole they whack
-- Animated gradient background
+- Background: Animated gradient 
 
 # Future Stretch Goals
 
