@@ -18,3 +18,20 @@ function createMoleHoles() {
     moleHoles.push(moleHole);
   }
 }
+
+function showMole() {
+  const randomHole = moleHoles[Math.floor(Math.random() * moleHoles.length)];
+  const mole = randomHole.querySelector(".mole");
+  mole.classList.add("active");
+
+  setTimeout(() => {
+    mole.classList.remove("active");
+  }, 1000);
+}
+
+function startGame() {
+  createMoleHoles();
+  setInterval(showMole, 2000);
+}
+
+startGame();

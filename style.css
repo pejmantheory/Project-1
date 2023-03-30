@@ -33,3 +33,20 @@ body {
 .mole.active {
     transform: translateX(-50%) translateY(-50%);
 }
+
+@keyframes animatedBackground {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  body {
+    background: linear-gradient(270deg, #ff0000, #00ff00, #0000ff, #ff0000);
+    background-size: 200% 200%;
+    animation: animatedBackground 10s linear infinite;
+  }
